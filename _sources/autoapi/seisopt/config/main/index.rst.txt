@@ -1,0 +1,33 @@
+:py:mod:`seisopt.config.main`
+=============================
+
+.. py:module:: seisopt.config.main
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   seisopt.config.main.m1
+
+
+
+.. py:function:: m1()
+
+   Maximum Weighted Clique Search
+
+   This function is a wrapper for the MWCS algorithm. It takes a graph as an
+   input and returns a list of nodes that form a maximum weighted clique.
+
+   :param G: The input graph.
+   :type G: nx.Graph
+
+   :returns: A list of nodes that form a maximum weighted clique.
+   :rtype: list
+
+

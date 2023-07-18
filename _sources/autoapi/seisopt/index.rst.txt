@@ -1,0 +1,16 @@
+:py:mod:`seisopt`
+=================
+
+.. py:module:: seisopt
+
+
+Subpackages
+-----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 3
+
+   config/index.rst
+   tests/index.rst
+
+

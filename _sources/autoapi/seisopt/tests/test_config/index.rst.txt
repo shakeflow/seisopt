@@ -1,0 +1,15 @@
+:py:mod:`seisopt.tests.test_config`
+===================================
+
+.. py:module:: seisopt.tests.test_config
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   test_main/index.rst
+
+

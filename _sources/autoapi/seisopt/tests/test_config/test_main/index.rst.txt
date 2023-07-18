@@ -1,0 +1,34 @@
+:py:mod:`seisopt.tests.test_config.test_main`
+=============================================
+
+.. py:module:: seisopt.tests.test_config.test_main
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   seisopt.tests.test_config.test_main.func
+   seisopt.tests.test_config.test_main.test_answer
+   seisopt.tests.test_config.test_main.test_load_raw
+   seisopt.tests.test_config.test_main.test_tt
+
+
+
+.. py:function:: func(x)
+
+
+.. py:function:: test_answer()
+
+
+.. py:function:: test_load_raw()
+
+
+.. py:function:: test_tt()
+
+
